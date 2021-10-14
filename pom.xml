@@ -13,6 +13,7 @@
         <module>spring-helloworld</module>
         <module>spring-elasticsearch</module>
         <module>spring-datajpa-pgsql</module>
+        <module>spring-rabbitmq</module>
     </modules>
 
     <properties>
